@@ -1,0 +1,4 @@
+TODO IF I COME BACK TO WORK ON IN THE FUTURE
+
+Do some css to organize and make things pretty
+Add comment functionality for posts
